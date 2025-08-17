@@ -3,6 +3,7 @@
 ## About Me
 I Am 16 Years Old. I Have Learned Basic Python And Now I Want To Be Better.
 I Use Arch Linux, [SwayWm](https://swaywm.org)
+
 I Also Love Watching Anime
 Top 3
 - Bleach
