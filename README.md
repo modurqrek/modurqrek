@@ -1,11 +1,12 @@
-# Hello Welcome to Moudurqrek Github Page
+My Name Is Moudurqrek/Moudur.
 
-My name is modurqrek and i create things with code.
+## About Me
+I Am 16 Years Old. I Have Learned Basic Python And Now I Want To Be Better.
+I Use Arch Linux SwayWm: [https://swaywm.org]
 
-## What things do i create?
-Sadly i am very new to coding so i only make basic things such as.
-Text based games
-.config files
+## What things Will I Post?
+.Config/dotfiles for linux
+.Text Based Games
 
 ## What Languages Do I Know?
-only python for now but i want to learn c# and many more
+.Python
