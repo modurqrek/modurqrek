@@ -6,7 +6,7 @@ I Use Arch Linux, [SwayWm](https://swaywm.org)
 
 I Also Love Watching Anime
 
-Top 3
+## Top 3
 - Bleach
 - Elfen Lied
 - Haibane Renmei
